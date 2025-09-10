@@ -8,17 +8,19 @@
 
 <h2> Funcionalidades</h2>
 
- Agregar amigos:
+Agregar amigos:
  -Captura el nombre ingresado en un campo de texto.
  -Valida que no esté vacío (si lo está, muestra un mensaje de error).
  -Agrega el nombre a la lista de amigos.
  -Limpia el campo de entrada.
 
- Actualizar la lista de amigos:
+
+Actualizar la lista de amigos:
  -Evita duplicados visuales limpiando la lista antes de actualizarla.
  -Muestra en pantalla todos los amigos ingresados en forma de lista (<ul><li>).
 
- Sortear un amigo:
+
+Sortear un amigo:
  -Selecciona un nombre aleatorio del arreglo.
  -Valida que haya amigos cargados antes de sortear.
  -Muestra el resultado en pantalla.
